@@ -1,5 +1,5 @@
 # datasources
-這裏紀錄梅花五組的專題可能的資料來源
+這裏紀錄梅花五組的專題可能的資料來源以及 raw data
 
 * 影集基本資料:imdb, movielens, wikidata
 * 影集得獎資料: kaggle, wikidata
