@@ -8,15 +8,15 @@
 
 
 # 艾美獎欄位需求
-* Primetime
-* Daytime
-* Sports
-* News and Documentary
-* Engineering
+* Primetime 孟遷
+* Daytime 士紳
+* Sports 士紳
+* News and Documentary 孟遷
+* Engineering 士紳
 * Regional 
-* test one two one two_1min
 
-# 影集資料欄位需求
+
+# 影集資料欄位需求 益銘
 
 * 片名
 * 評分
@@ -31,13 +31,11 @@
 * 語言
 * 拍攝地點(國家 + 州/省/縣)
 * 製作公司
-....
-
-柏翰  demo
-
-示範 branch 名稱叫做 demo 的樹枝 pohanox
 
 
-示範 bruce 分支來自於 demo 分支 所以這個訊息不會出現在 demo 或是 main
+
+
+
+
 
 
