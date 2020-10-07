@@ -38,4 +38,6 @@
 示範 branch 名稱叫做 demo 的樹枝 pohanox
 
 
-示範 bruce 分支來自於 demo 分支 所以這個訊息不會出現在 demo 或是 main 
+示範 bruce 分支來自於 demo 分支 所以這個訊息不會出現在 demo 或是 main
+
+practice git /typing 
