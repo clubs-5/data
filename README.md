@@ -40,4 +40,6 @@
 
 示範 bruce 分支來自於 demo 分支 所以這個訊息不會出現在 demo 或是 main
 
+just try it sample. real_chen
+ 
 practice git /typing 
