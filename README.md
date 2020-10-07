@@ -13,10 +13,13 @@
 * Sports 士紳
 * News and Documentary 孟遷
 * Engineering 士紳
-* Regional 
+* Regional 怡伶
 
+# rotten tomato 評論
 
-# 影集資料欄位需求 益銘
+ * 評論 怡伶
+
+# imdb 影集資料欄位需求 益銘
 
 * 片名
 * 評分
