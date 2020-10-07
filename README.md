@@ -7,11 +7,19 @@
 * 影集取景資料: form imdb Filming Locations
 
 
-# 艾美獎
-================================
+# 艾美獎欄位需求
 * Primetime
 * Daytime
 * Sports
 * News and Documentary
 * Engineering
 * Regional 
+
+# 影集資料欄位需求
+
+* 片名
+* 導演
+* 演員
+* 年份
+* 類型
+* 
