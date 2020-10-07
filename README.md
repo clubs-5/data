@@ -14,6 +14,7 @@
 * News and Documentary
 * Engineering
 * Regional 
+* test one two one two_1min
 
 # 影集資料欄位需求
 
